@@ -18,10 +18,10 @@ Celo selected Hackerearth to facilitate the hackathon expereince. To learn more 
 
 #### Github commit schedule:
 
-- 9/26 - Idea submission open until 9/26
+- 9/26 - Idea submission open until 9/26 - done
 
-- 9/19 - Fork this repo
-- 9/23 - Change README
+- 9/19 - Fork this repo - done
+- 9/23 - Change README - done
 - 9/30 - At least 3 commits
 - 10/7 - At least 3 commits
 - 10/14 - At least 3 commits
